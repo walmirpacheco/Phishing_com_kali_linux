@@ -1,5 +1,7 @@
 # Phishing para captura de senhas do Facebook
 
+ - Esses comandos, servem para pegar dados de login e senha.
+
 ### Ferramentas
 - Kali Linux
 - setoolkit
@@ -12,4 +14,7 @@
 - Método de ataque: Credential Harvester Attack Method 
 - Método de ataque: Site Cloner
 - Obtendo o endereço da máquina: ifconfig
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.github.com/login
+
+### Captura do resultado:
+<img src="images/captura.jpg">
