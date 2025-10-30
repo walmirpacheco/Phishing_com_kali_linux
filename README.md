@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Github
 
  - Esses comandos, servem para pegar dados de login e senha.
 
