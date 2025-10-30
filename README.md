@@ -17,4 +17,4 @@
 - URL para clone: http://www.github.com/login
 
 ### Captura do resultado:
-<img src="images/captura.jpg">
+![Profile_ico](images/captura.jpg)
